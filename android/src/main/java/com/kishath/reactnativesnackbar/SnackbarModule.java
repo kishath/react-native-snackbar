@@ -1,4 +1,4 @@
-package com.azendoo.reactnativesnackbar;
+package com.kishath.reactnativesnackbar;
 
 import android.graphics.Color;
 import android.os.Build;
